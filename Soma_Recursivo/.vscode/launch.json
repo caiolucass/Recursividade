@@ -1,0 +1,21 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Soma_Recursiva<Soma_Recursivo>",
+            "request": "launch",
+            "mainClass": "soma_Recursiva.Soma_Recursiva",
+            "projectName": "Soma_Recursivo"
+        }
+    ]
+}
